@@ -1002,6 +1002,98 @@
         "value": "none",
         "type": "textDecoration"
       }
+    },
+    "below": {
+      "elevation-10": {
+        "value": {
+          "color": "#00000014",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 2,
+          "blur": 4,
+          "spread": 0
+        },
+        "type": "boxShadow"
+      },
+      "elevation-20": {
+        "value": {
+          "color": "#00000014",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 4,
+          "blur": 8,
+          "spread": 0
+        },
+        "type": "boxShadow"
+      },
+      "elevation-30": {
+        "value": {
+          "color": "#00000014",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 8,
+          "blur": 16,
+          "spread": 0
+        },
+        "type": "boxShadow"
+      },
+      "elevation-40": {
+        "value": {
+          "color": "#00000014",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 16,
+          "blur": 32,
+          "spread": 0
+        },
+        "type": "boxShadow"
+      }
+    },
+    "above": {
+      "elevation-10": {
+        "value": {
+          "color": "#00000014",
+          "type": "dropShadow",
+          "x": 0,
+          "y": -2,
+          "blur": 4,
+          "spread": 0
+        },
+        "type": "boxShadow"
+      },
+      "elevation-20": {
+        "value": {
+          "color": "#11182714",
+          "type": "dropShadow",
+          "x": 0,
+          "y": -4,
+          "blur": 8,
+          "spread": 0
+        },
+        "type": "boxShadow"
+      },
+      "elevation-30": {
+        "value": {
+          "color": "#11182714",
+          "type": "dropShadow",
+          "x": 0,
+          "y": -8,
+          "blur": 16,
+          "spread": 0
+        },
+        "type": "boxShadow"
+      },
+      "elevation-40": {
+        "value": {
+          "color": "#11182714",
+          "type": "dropShadow",
+          "x": 0,
+          "y": -16,
+          "blur": 32,
+          "spread": 0
+        },
+        "type": "boxShadow"
+      }
     }
   },
   "dark": {
@@ -3190,6 +3282,98 @@
       "none": {
         "value": "none",
         "type": "textDecoration"
+      }
+    },
+    "below": {
+      "elevation-10": {
+        "value": {
+          "color": "#00000014",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 2,
+          "blur": 4,
+          "spread": 0
+        },
+        "type": "boxShadow"
+      },
+      "elevation-20": {
+        "value": {
+          "color": "#00000014",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 4,
+          "blur": 8,
+          "spread": 0
+        },
+        "type": "boxShadow"
+      },
+      "elevation-30": {
+        "value": {
+          "color": "#00000014",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 8,
+          "blur": 16,
+          "spread": 0
+        },
+        "type": "boxShadow"
+      },
+      "elevation-40": {
+        "value": {
+          "color": "#00000014",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 16,
+          "blur": 32,
+          "spread": 0
+        },
+        "type": "boxShadow"
+      }
+    },
+    "above": {
+      "elevation-10": {
+        "value": {
+          "color": "#00000014",
+          "type": "dropShadow",
+          "x": 0,
+          "y": -2,
+          "blur": 4,
+          "spread": 0
+        },
+        "type": "boxShadow"
+      },
+      "elevation-20": {
+        "value": {
+          "color": "#11182714",
+          "type": "dropShadow",
+          "x": 0,
+          "y": -4,
+          "blur": 8,
+          "spread": 0
+        },
+        "type": "boxShadow"
+      },
+      "elevation-30": {
+        "value": {
+          "color": "#11182714",
+          "type": "dropShadow",
+          "x": 0,
+          "y": -8,
+          "blur": 16,
+          "spread": 0
+        },
+        "type": "boxShadow"
+      },
+      "elevation-40": {
+        "value": {
+          "color": "#11182714",
+          "type": "dropShadow",
+          "x": 0,
+          "y": -16,
+          "blur": 32,
+          "spread": 0
+        },
+        "type": "boxShadow"
       }
     }
   }

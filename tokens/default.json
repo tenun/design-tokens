@@ -386,7 +386,7 @@
     }
   },
   "display": {
-    "font-size-96": {
+    "font-size-xl": {
       "regular": {
         "value": {
           "fontFamily": "Inter",
@@ -427,7 +427,7 @@
         "type": "typography"
       }
     },
-    "font-size-72": {
+    "font-size-md": {
       "regular": {
         "value": {
           "fontFamily": "Inter",
@@ -468,7 +468,7 @@
         "type": "typography"
       }
     },
-    "font-size-60": {
+    "font-size-sm": {
       "regular": {
         "value": {
           "fontFamily": "Inter",
@@ -511,7 +511,7 @@
     }
   },
   "heading": {
-    "font-size-48": {
+    "font-size-2xl": {
       "regular": {
         "value": {
           "fontFamily": "Inter",
@@ -552,7 +552,7 @@
         "type": "typography"
       }
     },
-    "font-size-36": {
+    "font-size-xl": {
       "regular": {
         "value": {
           "fontFamily": "Inter",
@@ -593,7 +593,7 @@
         "type": "typography"
       }
     },
-    "font-size-30": {
+    "font-size-md": {
       "regular": {
         "value": {
           "fontFamily": "Inter",
@@ -634,7 +634,7 @@
         "type": "typography"
       }
     },
-    "font-size-24": {
+    "font-size-sm": {
       "regular": {
         "value": {
           "fontFamily": "Inter",
@@ -677,7 +677,7 @@
     }
   },
   "paragraph": {
-    "font-size-18": {
+    "font-size-2xl": {
       "regular": {
         "value": {
           "fontFamily": "Inter",
@@ -718,7 +718,7 @@
         "type": "typography"
       }
     },
-    "font-size-16": {
+    "font-size-xl": {
       "regular": {
         "value": {
           "fontFamily": "Inter",
@@ -759,7 +759,7 @@
         "type": "typography"
       }
     },
-    "font-size-14": {
+    "font-size-md": {
       "regular": {
         "value": {
           "fontFamily": "Inter",
@@ -800,7 +800,7 @@
         "type": "typography"
       }
     },
-    "font-size-12": {
+    "font-size-sm": {
       "regular": {
         "value": {
           "fontFamily": "Inter",

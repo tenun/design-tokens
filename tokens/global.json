@@ -636,5 +636,65 @@
       "value": 0,
       "type": "paragraphSpacing"
     }
+  },
+  "space-0": {
+    "value": 0,
+    "type": "spacing"
+  },
+  "space-2": {
+    "value": 2,
+    "type": "spacing"
+  },
+  "space-4": {
+    "value": 4,
+    "type": "spacing"
+  },
+  "space-8": {
+    "value": 8,
+    "type": "spacing"
+  },
+  "space-12": {
+    "value": 12,
+    "type": "spacing"
+  },
+  "space-16": {
+    "value": 16,
+    "type": "spacing"
+  },
+  "space-20": {
+    "value": 20,
+    "type": "spacing"
+  },
+  "space-24": {
+    "value": 24,
+    "type": "spacing"
+  },
+  "space-32": {
+    "value": 32,
+    "type": "spacing"
+  },
+  "space-40": {
+    "value": 40,
+    "type": "spacing"
+  },
+  "space-48": {
+    "value": 48,
+    "type": "spacing"
+  },
+  "space-56": {
+    "value": 56,
+    "type": "spacing"
+  },
+  "space-64": {
+    "value": 64,
+    "type": "spacing"
+  },
+  "space-80": {
+    "value": 80,
+    "type": "spacing"
+  },
+  "space-96": {
+    "value": 96,
+    "type": "spacing"
   }
 }

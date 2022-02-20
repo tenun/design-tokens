@@ -696,5 +696,49 @@
   "space-96": {
     "value": 96,
     "type": "spacing"
+  },
+  "border-radius-0": {
+    "value": 0,
+    "type": "borderRadius"
+  },
+  "border-radius-2": {
+    "value": 2,
+    "type": "borderRadius"
+  },
+  "border-radius-4": {
+    "value": 4,
+    "type": "borderRadius"
+  },
+  "border-radius-8": {
+    "value": 8,
+    "type": "borderRadius"
+  },
+  "border-radius-12": {
+    "value": 12,
+    "type": "borderRadius"
+  },
+  "border-radius-16": {
+    "value": 16,
+    "type": "borderRadius"
+  },
+  "border-radius-20": {
+    "value": 20,
+    "type": "borderRadius"
+  },
+  "border-radius-24": {
+    "value": 24,
+    "type": "borderRadius"
+  },
+  "border-radius-32": {
+    "value": 32,
+    "type": "borderRadius"
+  },
+  "border-radius-40": {
+    "value": 40,
+    "type": "borderRadius"
+  },
+  "border-radius-circle": {
+    "value": "50%",
+    "type": "borderRadius"
   }
 }

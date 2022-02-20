@@ -165,4 +165,9 @@
   --border-radius-32: 32;
   --border-radius-40: 40;
   --border-radius-circle: 50%;
+  --border-width-0: 0;
+  --border-width-10: 1;
+  --border-width-20: 2;
+  --border-width-30: 4;
+  --border-width-40: 8;
       }

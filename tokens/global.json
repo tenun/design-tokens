@@ -641,59 +641,59 @@
     "value": 0,
     "type": "spacing"
   },
-  "space-10": {
+  "space-2": {
     "value": 2,
     "type": "spacing"
   },
-  "space-20": {
+  "space-4": {
     "value": 4,
     "type": "spacing"
   },
-  "space-30": {
+  "space-8": {
     "value": 8,
     "type": "spacing"
   },
-  "space-40": {
+  "space-12": {
     "value": 12,
     "type": "spacing"
   },
-  "space-50": {
+  "space-16": {
     "value": 16,
     "type": "spacing"
   },
-  "space-60": {
+  "space-20": {
     "value": 20,
     "type": "spacing"
   },
-  "space-70": {
+  "space-24": {
     "value": 24,
     "type": "spacing"
   },
-  "space-80": {
+  "space-32": {
     "value": 32,
     "type": "spacing"
   },
-  "space-90": {
+  "space-40": {
     "value": 40,
     "type": "spacing"
   },
-  "space-100": {
+  "space-48": {
     "value": 48,
     "type": "spacing"
   },
-  "space-110": {
+  "space-56": {
     "value": 56,
     "type": "spacing"
   },
-  "space-120": {
+  "space-64": {
     "value": 64,
     "type": "spacing"
   },
-  "space-130": {
+  "space-80": {
     "value": 80,
     "type": "spacing"
   },
-  "space-140": {
+  "space-96": {
     "value": 96,
     "type": "spacing"
   }

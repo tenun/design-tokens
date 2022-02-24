@@ -112,4 +112,6 @@
   --above-elevation-20: [object Object];
   --above-elevation-30: [object Object];
   --above-elevation-40: [object Object];
+  --border-radius-avatar: 50%;
+  --border-width-avatar: 1;
       }

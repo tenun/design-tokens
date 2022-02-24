@@ -933,5 +933,17 @@
       },
       "type": "boxShadow"
     }
+  },
+  "border-radius": {
+    "avatar": {
+      "value": "50%",
+      "type": "borderRadius"
+    }
+  },
+  "border-width": {
+    "avatar": {
+      "value": 1,
+      "type": "borderWidth"
+    }
   }
 }

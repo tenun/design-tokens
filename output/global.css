@@ -134,10 +134,12 @@
   --below-elevation-20: [object Object];
   --below-elevation-30: [object Object];
   --below-elevation-40: [object Object];
+  --below-elevation-0: [object Object];
   --above-elevation-10: [object Object];
   --above-elevation-20: [object Object];
   --above-elevation-30: [object Object];
   --above-elevation-40: [object Object];
+  --above-elevation-0: [object Object];
   --paragraph-spacing-none: 0;
   --space-0: 0;
   --space-2: 2;

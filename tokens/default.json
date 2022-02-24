@@ -886,6 +886,17 @@
         "spread": 0
       },
       "type": "boxShadow"
+    },
+    "elevation-0": {
+      "value": {
+        "x": 0,
+        "y": 0,
+        "blur": 0,
+        "spread": 0,
+        "color": "#000000",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
     }
   },
   "above": {
@@ -932,16 +943,133 @@
         "spread": 0
       },
       "type": "boxShadow"
+    },
+    "elevation-0": {
+      "value": {
+        "x": 0,
+        "y": 0,
+        "blur": 0,
+        "spread": 0,
+        "color": "#000000",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
     }
   },
   "border-radius": {
     "avatar": {
       "value": "50%",
       "type": "borderRadius"
+    },
+    "badge": {
+      "value": "50%",
+      "type": "borderRadius"
+    },
+    "callout": {
+      "value": 24,
+      "type": "borderRadius"
+    },
+    "dialog": {
+      "value": 24,
+      "type": "borderRadius"
+    },
+    "tag": {
+      "value": 8,
+      "type": "borderRadius"
+    },
+    "input": {
+      "large": {
+        "value": 16,
+        "type": "borderRadius"
+      },
+      "medium": {
+        "value": 12,
+        "type": "borderRadius"
+      }
+    },
+    "button": {
+      "small": {
+        "value": "50%",
+        "type": "borderRadius"
+      },
+      "medium": {
+        "value": "50%",
+        "type": "borderRadius"
+      },
+      "large": {
+        "value": "50%",
+        "type": "borderRadius"
+      }
+    },
+    "spot": {
+      "value": "50%",
+      "type": "borderRadius"
+    },
+    "loading-bar": {
+      "value": "50%",
+      "type": "borderRadius"
+    },
+    "switch": {
+      "value": "50%",
+      "type": "borderRadius"
+    },
+    "tabs": {
+      "default": {
+        "small": {
+          "value": 8,
+          "type": "borderRadius"
+        },
+        "medium": {
+          "value": 12,
+          "type": "borderRadius"
+        }
+      },
+      "full-circle": {
+        "small": {
+          "value": "50%",
+          "type": "borderRadius"
+        },
+        "medium": {
+          "value": "50%",
+          "type": "borderRadius"
+        }
+      }
+    },
+    "tooltip": {
+      "value": 24,
+      "type": "borderRadius"
+    },
+    "snackbar": {
+      "value": 16,
+      "type": "borderRadius"
+    },
+    "menu-item": {
+      "value": 12,
+      "type": "borderRadius"
+    },
+    "menu": {
+      "value": 24,
+      "type": "borderRadius"
+    },
+    "image": {
+      "value": 8,
+      "type": "borderRadius"
     }
   },
   "border-width": {
     "avatar": {
+      "value": 1,
+      "type": "borderWidth"
+    },
+    "callout": {
+      "value": 1,
+      "type": "borderWidth"
+    },
+    "input": {
+      "value": 1,
+      "type": "borderWidth"
+    },
+    "spot": {
       "value": 1,
       "type": "borderWidth"
     }

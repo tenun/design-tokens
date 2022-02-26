@@ -71,15 +71,15 @@
   --decorative-critical-light: #f8eded;
   --decorative-critical-medium: #d32246;
   --decorative-critical-dark: #7a2a32;
+  --display-font-size-lg-regular: [object Object];
+  --display-font-size-lg-medium: [object Object];
+  --display-font-size-lg-bold: [object Object];
   --display-font-size-md-regular: [object Object];
   --display-font-size-md-medium: [object Object];
   --display-font-size-md-bold: [object Object];
   --display-font-size-sm-regular: [object Object];
   --display-font-size-sm-medium: [object Object];
   --display-font-size-sm-bold: [object Object];
-  --display-font-size-xs-regular: [object Object];
-  --display-font-size-xs-medium: [object Object];
-  --display-font-size-xs-bold: [object Object];
   --heading-font-size-2xl-regular: [object Object];
   --heading-font-size-2xl-medium: [object Object];
   --heading-font-size-2xl-bold: [object Object];

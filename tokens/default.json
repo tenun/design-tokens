@@ -924,6 +924,172 @@
       }
     }
   },
+  "label": {
+    "font-size-lg": {
+      "regular": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Regular",
+          "lineHeight": 28,
+          "fontSize": 18,
+          "letterSpacing": "0%",
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "medium": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Medium",
+          "lineHeight": 28,
+          "fontSize": 18,
+          "letterSpacing": "0%",
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "bold": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Bold",
+          "lineHeight": 28,
+          "fontSize": 18,
+          "letterSpacing": "0%",
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      }
+    },
+    "font-size-md": {
+      "regular": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Regular",
+          "lineHeight": 24,
+          "fontSize": 16,
+          "letterSpacing": "0%",
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "medium": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Medium",
+          "lineHeight": 24,
+          "fontSize": 16,
+          "letterSpacing": "0%",
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "bold": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Bold",
+          "lineHeight": 24,
+          "fontSize": 16,
+          "letterSpacing": "0%",
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      }
+    },
+    "font-size-sm": {
+      "regular": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Regular",
+          "lineHeight": 20,
+          "fontSize": 14,
+          "letterSpacing": "0%",
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "medium": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Medium",
+          "lineHeight": 20,
+          "fontSize": 14,
+          "letterSpacing": "0%",
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "bold": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Bold",
+          "lineHeight": 20,
+          "fontSize": 14,
+          "letterSpacing": "0%",
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      }
+    },
+    "font-size-xs": {
+      "regular": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Regular",
+          "lineHeight": 16,
+          "fontSize": 12,
+          "letterSpacing": "0%",
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "medium": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Medium",
+          "lineHeight": 16,
+          "fontSize": 12,
+          "letterSpacing": "0%",
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "bold": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Bold",
+          "lineHeight": 16,
+          "fontSize": 12,
+          "letterSpacing": "0%",
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      }
+    }
+  },
   "below": {
     "elevation-10": {
       "value": {

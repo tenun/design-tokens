@@ -146,4 +146,6 @@
   --border-width-callout: 1;
   --border-width-input: 1;
   --border-width-spot: 1;
+  --state-focused: [object Object];
+  --state-error: [object Object];
       }

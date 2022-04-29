@@ -971,12 +971,12 @@
     },
     "elevation-0": {
       "value": {
+        "color": "#000000",
+        "type": "dropShadow",
         "x": 0,
         "y": 0,
         "blur": 0,
-        "spread": 0,
-        "color": "#000000",
-        "type": "dropShadow"
+        "spread": 0
       },
       "type": "boxShadow"
     }
@@ -1028,12 +1028,12 @@
     },
     "elevation-0": {
       "value": {
+        "color": "#000000",
+        "type": "dropShadow",
         "x": 0,
         "y": 0,
         "blur": 0,
-        "spread": 0,
-        "color": "#000000",
-        "type": "dropShadow"
+        "spread": 0
       },
       "type": "boxShadow"
     }
@@ -1154,6 +1154,30 @@
     "spot": {
       "value": 1,
       "type": "borderWidth"
+    }
+  },
+  "state": {
+    "focused": {
+      "value": {
+        "color": "#30343b3d",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 0,
+        "blur": 0,
+        "spread": 4
+      },
+      "type": "boxShadow"
+    },
+    "error": {
+      "value": {
+        "color": "#d322463d",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 0,
+        "blur": 0,
+        "spread": 4
+      },
+      "type": "boxShadow"
     }
   }
 }

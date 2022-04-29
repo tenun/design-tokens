@@ -1,10 +1,10 @@
 .default-theme {
           --background-default: #ffffff;
-  --background-subdued: #efeff0;
-  --background-hover: #d6d8db;
+  --background-subdued: #F7F7F8;
+  --background-hover: #F7F7F8;
   --background-pressed: #ffffff;
   --background-selected: #ffffff;
-  --background-disabled: #bbbfc3;
+  --background-disabled: #d6d8db;
   --background-inverse: #151619;
   --border-default: #d6d8db;
   --border-subdued: #bbbfc3;
@@ -48,7 +48,7 @@
   --secondary-selected: #151619;
   --secondary-disabled: #d6d8db;
   --neutral-default: #d6d8db;
-  --neutral-subdued: #efeff0;
+  --neutral-subdued: #F7F7F8;
   --neutral-hover: #bbbfc3;
   --neutral-selected: #9ea3a9;
   --neutral-pressed: #9ea3a9;

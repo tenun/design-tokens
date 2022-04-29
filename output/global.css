@@ -1,5 +1,5 @@
 .global-theme {
-          --global-gray-50: #f0f0f0;
+          --global-gray-50: #F7F7F8;
   --global-gray-100: #d9d9d9;
   --global-gray-200: #bfbfbf;
   --global-gray-300: #a3a3a3;
@@ -9,7 +9,7 @@
   --global-gray-700: #464444;
   --global-gray-800: #343432;
   --global-gray-900: #171616;
-  --global-cool-gray-50: #efeff0;
+  --global-cool-gray-50: #F7F7F8;
   --global-cool-gray-100: #d6d8db;
   --global-cool-gray-200: #bbbfc3;
   --global-cool-gray-300: #9ea3a9;

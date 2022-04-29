@@ -1,6 +1,6 @@
 .dark-theme {
           --background-default: #151619;
-  --background-subdued: #efeff0;
+  --background-subdued: #F7F7F8;
   --background-hover: #d6d8db;
   --background-pressed: #ffffff;
   --background-selected: #ffffff;
@@ -48,7 +48,7 @@
   --secondary-selected: #151619;
   --secondary-disabled: #d6d8db;
   --neutral-default: #d6d8db;
-  --neutral-subdued: #efeff0;
+  --neutral-subdued: #F7F7F8;
   --neutral-hover: #bbbfc3;
   --neutral-selected: #9ea3a9;
   --neutral-pressed: #9ea3a9;

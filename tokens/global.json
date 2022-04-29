@@ -1,7 +1,7 @@
 {
   "global": {
     "gray-50": {
-      "value": "#f0f0f0",
+      "value": "#F7F7F8",
       "type": "color"
     },
     "gray-100": {
@@ -41,7 +41,7 @@
       "type": "color"
     },
     "cool-gray-50": {
-      "value": "#efeff0",
+      "value": "#F7F7F8",
       "type": "color"
     },
     "cool-gray-100": {

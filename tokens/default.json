@@ -6,12 +6,12 @@
       "description": ""
     },
     "subdued": {
-      "value": "#efeff0",
+      "value": "#F7F7F8",
       "type": "color",
       "description": ""
     },
     "hover": {
-      "value": "#d6d8db",
+      "value": "#F7F7F8",
       "type": "color",
       "description": ""
     },
@@ -26,7 +26,7 @@
       "description": ""
     },
     "disabled": {
-      "value": "#bbbfc3",
+      "value": "#d6d8db",
       "type": "color",
       "description": ""
     },
@@ -258,7 +258,7 @@
       "description": ""
     },
     "subdued": {
-      "value": "#efeff0",
+      "value": "#F7F7F8",
       "type": "color",
       "description": ""
     },
